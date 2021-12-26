@@ -1,3 +1,1 @@
-def test(a, b)-> int:
-    return a + b
-
+print("Hello world")
